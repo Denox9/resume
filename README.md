@@ -23,8 +23,6 @@ The resume website includes the following sections:
 
 ## Getting Started
 
-To run this project locally, follow these steps:
+https://denox9.github.io/resume/
 
-1. **Clone the Repository**:
-   ```bash
-   git clone (https://denox9.github.io/resume/)
+https://roadmap.sh/projects/single-page-cv
